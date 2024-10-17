@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un rep del mod2 del PrepCourse de Henry
+Este es un proyecto de como crear un repo y clonarlo desde github a mi escritorio local
